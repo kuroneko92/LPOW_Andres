@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 cambio 2
+=======
+>>>>>>> parent of 30ebdd4... actualizacion
